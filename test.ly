@@ -1,4 +1,4 @@
 \version "2.24.4"
 {
-  c' e' g' e' f4
+  c' e' g' e'
 }
